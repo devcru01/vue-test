@@ -61,4 +61,5 @@ are intuitively clear from this image.
 <img width="800" alt="Create a new project" src="docs/Task.jpg">
 
 
-You can download the text from this file: [Task.md](docs/Task.md)
+You can download the text from this file: [Task.md](docs/Task.md)  
+Here is the link to the figma: <a href="https://www.figma.com/file/DbbmyAKbonIbVAFQMEqq0S/EVT---vue-test?node-id=0%3A1">vue-test<a/>
