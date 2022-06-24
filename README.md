@@ -1,6 +1,6 @@
 ## Work process
 
-Create a copy of this repository and complete the task in your repository. Don't make a fork.
+Create a copy of this repository and complete the task in your repository. Don't make a fork.  
 When the task is complete add these accounts as collaborators: `armen9494`, `cripalani`.
 
 ## Installation
